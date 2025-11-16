@@ -1,0 +1,12 @@
+{
+  "auto_clean_on_start": false,
+  "auto_start_after_clean": false,
+  "music": {
+    "enabled": false,
+    "volume": 0.88
+  },
+  "wqhd_minimap_enabled": false,
+  "theme": "bw_neon",
+  "fivem_path": "C:\\Users\\1986g\\AppData\\Local\\FiveM",
+  "last_update_notified": "0.2.0"
+}

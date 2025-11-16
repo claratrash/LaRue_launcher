@@ -1,0 +1,12 @@
+{
+  "announcements": [
+    {
+      "title": "Willkommen auf LaRueRP",
+      "body": "Verbinde dich direkt über den Launcher mit dem Server und tritt unserem Discord bei!"
+    },
+    {
+      "title": "Beispiel-Ankündigung",
+      "body": "Diese Nachrichten kommen aus config/announcements.json und können dort beliebig angepasst werden."
+    }
+  ]
+}

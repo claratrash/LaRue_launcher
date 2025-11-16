@@ -1,0 +1,34 @@
+{
+  "launcher_version": "1.0.0",
+  "server": {
+    "connect": "connect 45.152.160.250:30120",
+    "status_url": "https://example.com/larue_status.json"
+  },
+  "links": {
+    "discord": "https://discord.gg/larue-rp",
+    "tebex": "https://la-rue-roleplay.tebex.io/",
+    "tiktok": "https://www.tiktok.com/@larueroleplay",
+    "youtube": null,
+    "instagram": null,
+    "website": null
+  },
+  "wallpapers": [
+    {
+      "id": "lr_logo_neon",
+      "file": "assets/wallpapers/lr_logo_neon.png",
+      "res": "1920x1080"
+    },
+    {
+      "id": "lr_banner",
+      "file": "assets/wallpapers/lr_banner.png",
+      "res": "2048x609"
+    },
+    {
+      "id": "skyline_sunset",
+      "file": "assets/wallpapers/skyline_sunset.jpg",
+      "res": "2040x768"
+    }
+  ],
+  "announcements": "announcements.json",
+  "remote_config_repo": "https://github.com/claratrash/LaRue_launcher"
+}
